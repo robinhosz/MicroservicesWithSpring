@@ -1,0 +1,1 @@
+[![Continuos Integration with Github](https://github.com/robinhosz/MicroservicesWithSpring/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/robinhosz/MicroservicesWithSpring/actions/workflows/docker-publish.yml)
